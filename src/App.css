@@ -1,0 +1,33 @@
+.Age_cal{
+  width: 600px;
+  background-color: #F3FCFF;
+  margin: auto;
+  padding: 30px 0px;
+  margin-top:100px;
+  font-size: 20px;
+}
+.main{
+  display: flex;
+}
+	.main div{
+  margin: auto;
+  font-size: 20px;
+}
+.main div input{
+  font-size: 18px;
+  padding:5px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+.Cal{
+  text-align: center;
+  margin-top: 20px;
+}
+.Cal input{
+  text-align: center;
+  font-size: 18px;
+  padding: 10px 25px;
+  border-radius: 50px;
+  background-color:#1E5B80;
+  color: white;
+}
